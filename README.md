@@ -16,3 +16,6 @@ Faire un click droit sur une méthode et choisir "Créer des tests unitaires". L
 * nUnit (open source) inspiré de jUnit, pour .Net
 * xUnit (open source) pour .Net
 * etc
+
+## Pour aller plus loin 
+Le test-driven development, ou TDD, est un principe d'écriture du code piloté par les tests. Cette pratique d'apparence (trompeuse) chronophage s'avère être un gain de temps dans le cycle de développement et un gain de qualité et de robustesse, le développement étant basé sur sa stabilité. 
